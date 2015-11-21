@@ -25,6 +25,7 @@ public class SQLiteCrudExample  extends ListActivity {
         SQLiteDatabase sampleDB = null;
 
 //sebas
+		//segunda preuba
         
         try {
         	//Instantiate sampleDB object
