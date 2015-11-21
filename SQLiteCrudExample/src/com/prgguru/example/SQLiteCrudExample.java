@@ -23,6 +23,8 @@ public class SQLiteCrudExample  extends ListActivity {
         ArrayList<String> results = new ArrayList<String>();
         //Declare SQLiteDatabase object
         SQLiteDatabase sampleDB = null;
+
+//sebas
         
         try {
         	//Instantiate sampleDB object
